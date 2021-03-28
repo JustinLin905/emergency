@@ -42,17 +42,17 @@ This app was originally created by a team of 4 students for the MERGE 2021 hacka
 ## Hack
 
 
-Justin Lin
+* Justin Lin
 
-Yax Patel
+* Yax Patel
 
 *The hackers built the Unity application that is found in this repository.*
 
 ## Policy
 
-Vedant Patel
+* Vedant Patel
 
-Harry Li
+* Harry Li
 
 *These writers created the policy brief that was submitted alongside the hack project.*
 
