@@ -2,7 +2,7 @@
 
 ![Emergency Logo Icon](ReadMeImages/EmergencyLogoIcon.png)
 
-***Emergency!*** is a mobile app developed for Android which provides interactive, step-by-step instructions on how to tackle a variety of emergency situations.
+***Emergency!*** is a mobile app developed for Android which provides interactive, step-by-step instructions on how to tackle a variety of emergency situations. Unlike other emergency apps, it was developed in Unity and uses the power of 3D modeling and animation to guide users through difficult procedures.
 
 For users looking to edit / update the project code, you will require a **Unity 2019.4.13** installation. Select the first folder named “Emergency!” as the project folder.
 
